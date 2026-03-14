@@ -23,14 +23,18 @@ Seaborn
 data-analysis-practice
 │
 ├── numpy/
-│   └── numpy_practice.ipynb
+│   └── NUmpy.py
 │
 ├── pandas/
-│   └── pandas_practice.ipynb
-│
-├── eda/
-│   └── exploratory_data_analysis.ipynb
-│
+│   └── pandas_prac.py
+|   └──PAndas.py  
+├── eda-and-small-project/
+│    └── Exploratory_Data_Analysis_of_Bank_Customer_Churn
+|    └──Cleaning.py
+|    └──EDA_blackfriday.py
+├──matplot/
+│   └── matplot.py
+│   
 └── datasets/
 📚 Topics Covered
 
